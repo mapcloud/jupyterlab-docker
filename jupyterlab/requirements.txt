@@ -6,3 +6,10 @@ matplotlib
 folium
 lxml
 nltk
+pyorient
+geopy
+bcrypt
+s2sphere
+passlib
+scipy
+yaml
